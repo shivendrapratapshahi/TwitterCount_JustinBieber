@@ -1,6 +1,7 @@
 # Data Pipeline for TwitterCount_JustinBieber
 
-##Steps for the Solution
+#Steps for the Solution
+
 Created a Twitter account and API credentials
 Downloade any opensource Database - Decided to download MySQL database because of it's widespread use
 Install the Tweepy and mysql-connector Python Libraries
