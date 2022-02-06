@@ -31,7 +31,6 @@
 Ans: Data Security, Data Senstivity, Increase in volume of Data. Data masking is required if there is sensitive information. Access to API keys.
 
 * How would you roll out the pipeline going from proof-of-concept to a production ready solution?
-
 Ans: Typically, you roll out to a production environment in stages. A staged rollout is especially important for large deployments that affect a significant number of users.
 The staged deployment can start with a small set of users and eventually expand the user base until the deployment is available to all users. A staged deployment can also start with a limited set of services and eventually phase in the remaining services. Staging services in phases can help isolate, identify, and resolve problems a service might encounter in a production environment.
 
