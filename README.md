@@ -24,6 +24,7 @@
 
 *Final step is to store the tweet and it's related information in the database.
 
+
 # Questions
 
 * What are the risks involved in building such a pipeline?
